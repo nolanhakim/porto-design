@@ -17,21 +17,22 @@ const jakarta = Plus_Jakarta_Sans({
   subsets: ["latin"],
 });
 
+const TITLE = "Catraliya Nolan Hakim · Design Portofolio";
+const DESCRIPTION =
+  "Editorial design, branding, and visual identity work by Catraliya Nolan Hakim, based in Surakarta, Jawa Tengah.";
+
 export const metadata: Metadata = {
-  title: "Catraliya Nolan Hakim — Design Portfolio",
-  description:
-    "Portfolio design by Catraliya Nolan Hakim. A collection of visual work, branding, and design explorations.",
+  title: TITLE,
+  description: DESCRIPTION,
   openGraph: {
-    title: "Catraliya Nolan Hakim — Design Portfolio",
-    description:
-      "Portfolio design by Catraliya Nolan Hakim. A collection of visual work, branding, and design explorations.",
+    title: TITLE,
+    description: DESCRIPTION,
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Catraliya Nolan Hakim — Design Portfolio",
-    description:
-      "Portfolio design by Catraliya Nolan Hakim. A collection of visual work, branding, and design explorations.",
+    title: TITLE,
+    description: DESCRIPTION,
   },
 };
 

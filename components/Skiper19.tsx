@@ -20,7 +20,7 @@ const Skiper19 = () => {
           Catraliya Nolan Hakim
         </h1>
         <p className="font-jakarta-sans relative z-10 max-w-2xl px-4 text-sm sm:text-base md:text-xl font-medium text-[#1F3A4B]">
-          Scroll down to explore the work
+          Scroll to see selected work
         </p>
 
         <LinePath

@@ -27,7 +27,7 @@ export default function ContactFooter() {
         </a>
 
         <div className="mt-24 flex flex-col gap-3 border-t border-white/15 pt-8 text-xs uppercase tracking-[0.14em] opacity-60 sm:flex-row sm:items-center sm:justify-between">
-          <span>Surakarta, Jawa Tengah — and online</span>
+          <span>Surakarta, Jawa Tengah / Available online</span>
           <span>© Catraliya Nolan Hakim</span>
         </div>
       </div>
